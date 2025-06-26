@@ -5,8 +5,11 @@
  TECH STACK
  
 • 📊 Power BI Desktop – Main data visualization platform used for report creation.
+
 • 📂 Power Query – Data transformation and cleaning.
+
 • 🧠 DAX (Data Analysis Expressions) – Used for calculated measures.
+
 • 📝 Data Modeling – Relationships established among tables .
 
 BUSINESS PROBLEM
