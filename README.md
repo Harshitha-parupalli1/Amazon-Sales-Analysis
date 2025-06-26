@@ -32,7 +32,7 @@ December recorded the highest number of orders, followed by September.
 February had the lowest sales .
 Sales begin to rise steadily after mid-year, peaking in Q4 (Oct–Dec).
 
-![Alt Text]()
+![Alt Text](https://github.com/Harshitha-parupalli1/Amazon-Sales-Analysis/blob/main/Snap%20shot%20of%20Dashboard.png)
 
 
 
